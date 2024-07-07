@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning new languages.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me zishanismam@gmail.com
-![image](https://github.com/Zishan23/Zishan23/assets/50224770/b9eaade8-3ee3-4a90-8bef-9cf8a0cec353)
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">

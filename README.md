@@ -48,7 +48,7 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zishan23_icons=true&theme=gruvbox)
+![Zishan23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zishan23&theme=radical&hide_border=true)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 

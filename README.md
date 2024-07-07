@@ -2,9 +2,14 @@
 --->
 # 🏄‍♂️ Ismam Fatin Zishan
 
-**`Digital Craftsman (Developer/Entrepreneur/Student)`**
+**`Full Stack Developer (Developer/Entrepreneur/Problem_Solver)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+- 👋 Hi, I’m Ismam Fatin Zishan
+- 👀 I’m interested in diffrent programming languages and machine learning.
+- 🌱 I’m currently learning new languages.
+- 💞️ I’m looking to collaborate on machine learning projects.
+- 📫 How to reach me zishanismam@gmail.com
+![image](https://github.com/Zishan23/Zishan23/assets/50224770/b9eaade8-3ee3-4a90-8bef-9cf8a0cec353)
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">

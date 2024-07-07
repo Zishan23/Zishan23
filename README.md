@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Ismam Fatin Zishan
 - 👀 I’m interested in diffrent programming languages and Software development.
 - 📚 I’m currently doing my Master's in Information Technology.
-- 📟 I’m looking to collaborate on software development projects.
+- 📟 I’m looking to collaborate on open source projects.
 - 🌐 How to reach me [ismamzishan.com](https://ismamzishan.com)
 
 

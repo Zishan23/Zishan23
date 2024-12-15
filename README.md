@@ -1,9 +1,8 @@
-# 🧑🏻‍💻 Ismam Fatin Zishan
 
-**`Full Stack Developer 
+
+
+# Hi there, I'm Ismam Fatin Zishan! 👋  **`Full Stack Developer 
 (Developer/Entrepreneur/Problem_Solver)`**
-
-# Hi there, I'm Ismam Fatin Zishan! 👋  
 
 - 🌍 **Curious Mind:** I’m passionate about discussing **current affairs** and diving into the complexities of the **world economy**.  
 - 💻 **Tech Enthusiast:** Currently pursuing a **Master's in Information Technology** in Australia, exploring the intersections of technology and innovation.  

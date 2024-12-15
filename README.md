@@ -1,9 +1,7 @@
 
-
-
-# Hi there, I'm Ismam Fatin Zishan! 👋  **`Full Stack Developer 
+# Hi there, I'm Ismam Fatin Zishan! 👋 
+ **`Full Stack Developer 
 (Developer/Entrepreneur/Problem_Solver)`**
-
 - 🌍 **Curious Mind:** I’m passionate about discussing **current affairs** and diving into the complexities of the **world economy**.  
 - 💻 **Tech Enthusiast:** Currently pursuing a **Master's in Information Technology** in Australia, exploring the intersections of technology and innovation.  
 - 🎬 **Chill Mode On:** When I’m not geeking out over tech, you’ll probably find me indulging in some good old **Netflix and chill**—because balance is key, right?  

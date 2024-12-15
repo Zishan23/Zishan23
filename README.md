@@ -1,12 +1,16 @@
 # 🧑🏻‍💻 Ismam Fatin Zishan
 
-**`Full Stack Developer (Developer/Entrepreneur/Problem_Solver)`**
+**`Full Stack Developer 
+(Developer/Entrepreneur/Problem_Solver)`**
 
-- 👋 Hi, I’m Ismam Fatin Zishan
-- 👀 I love talking about current affairs and world economy.
-- 📚 Currently a Master's student in Information Technology in Australia.
-- 📺 Netflix and chill is my most favourite thing to do at the moment 😆.
-- 🌐 Most booring stuffs about me you can find in this website [ismamzishan.com](https://ismamzishan.com)
+# Hi there, I'm Ismam Fatin Zishan! 👋  
+
+- 🌍 **Curious Mind:** I’m passionate about discussing **current affairs** and diving into the complexities of the **world economy**.  
+- 💻 **Tech Enthusiast:** Currently pursuing a **Master's in Information Technology** in Australia, exploring the intersections of technology and innovation.  
+- 🎬 **Chill Mode On:** When I’m not geeking out over tech, you’ll probably find me indulging in some good old **Netflix and chill**—because balance is key, right?  
+- 🌀 **Quirky & Unique:** If you’re brave enough to venture into the rabbit hole of my more mundane details, you can find them over at [ismamzishan.com](https://ismamzishan.com).  
+
+Feel free to connect or explore my work—I'm all about meaningful conversations and cool collaborations!
 <!--
   <p align="left">
     <a href="https://github.com/ForrestKnight?tab=followers](https://github.com/Zishan23">

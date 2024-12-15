@@ -3,10 +3,10 @@
 **`Full Stack Developer (Developer/Entrepreneur/Problem_Solver)`**
 
 - 👋 Hi, I’m Ismam Fatin Zishan
-- 👀 I’m interested in diffrent programming languages and Software development.
-- 📚 I’m currently doing my Master's in Information Technology.
-- 📟 I’m looking to collaborate on open source projects.
-- 🌐 How to reach me [ismamzishan.com](https://ismamzishan.com)
+- 👀 I love talking about current affairs and world economy.
+- 📚 Currently a Master's student in Information Technology in Australia.
+- 📺 Netflix and chill is my most favourite thing to do at the moment 😆.
+- 🌐 Most booring stuffs about me you can find in this website [ismamzishan.com](https://ismamzishan.com)
 <!--
   <p align="left">
     <a href="https://github.com/ForrestKnight?tab=followers](https://github.com/Zishan23">
